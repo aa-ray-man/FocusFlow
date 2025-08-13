@@ -170,7 +170,11 @@ export default function Landing() {
       {/* Footer */}
       <footer className="border-t border-border py-8 px-4">
         <div className="container mx-auto text-center text-muted-foreground">
-          <p>&copy; 2024 FocusFlow. Built for students, by students.</p>
+          <p>&copy; FocusFlow. Made with ❤️ by
+            <a href="https://github.com/aa-ray-man/FocusFlow" 
+            target="_blank" 
+            className="text-blue-600 hover:scale-110 transition-transform duration-300"> aa-ray-man</a>
+          </p>
         </div>
       </footer>
     </div>;

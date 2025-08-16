@@ -20,18 +20,18 @@ const features = [{
   color: "text-peach"
 }];
 const testimonials = [{
-  name: "Sarah Chen",
+  name: "Divija Sharma",
   role: "Computer Science Student",
   content: "FocusFlow transformed my study routine. I went from cramming to consistent daily progress.",
   rating: 5
 }, {
-  name: "Marcus Rodriguez",
+  name: "Abhiraj Singh",
   role: "Medical Student",
   content: "The habit tracking keeps me accountable. I've maintained my study streak for 3 months now!",
   rating: 5
 }, {
-  name: "Emma Thompson",
-  role: "Graduate Student",
+  name: "Aayushi Verma",
+  role: "MBA Student",
   content: "Finally, a productivity app that understands the student mindset. Clean, simple, effective.",
   rating: 5
 }];

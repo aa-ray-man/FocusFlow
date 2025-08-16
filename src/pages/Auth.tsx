@@ -95,7 +95,7 @@ export default function Auth() {
         } else {
           toast({
             title: "Account created!",
-            description: "Please check your email to log into your account",
+            description: "Please check your email and LogIn again",
           });
         }
       }
